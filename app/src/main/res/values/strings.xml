@@ -13,4 +13,5 @@
     <string name="PREPAID">PREPAID</string>
     <string name="COUNTRY">COUNTRY</string>
     <string name="BANK">BANK</string>
+    <string name="delete">Delete All</string>
 </resources>

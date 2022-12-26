@@ -5,7 +5,7 @@ data class Country(
     val currency: String,
     val emoji: String,
     val latitude: Int,
-    val longitude: Int,
+    val longitude: Int? = null,
     val name: String,
     val numeric: String
 )

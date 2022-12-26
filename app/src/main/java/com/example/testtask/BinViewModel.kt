@@ -9,7 +9,7 @@ import retrofit2.Callback
 import retrofit2.Response
 
 
-class ViewModel : ViewModel() {
+class BinViewModel() : ViewModel() {
     val resultBin = MutableLiveData<BIN?>()
 
     fun checkBin(bin: Long) {
